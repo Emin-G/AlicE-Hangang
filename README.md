@@ -26,6 +26,8 @@ SEOUL_API=
 http://data.seoul.go.kr/dataList/OA-15488/A/1/datasetView.do
 
 ## 사용법
-```
-!한강
-```
+- !한강
+- !한강물
+- !한강온도
+- !한강수온
+- !한강물온도
