@@ -1,0 +1,28 @@
+{
+  "name": "Alice Discord H",
+  "version": "1.0",
+  "description": "Alice Discord Hangang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "min_G",
+  "homepage": "http://alices.kro.kr",
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2",
+    "got": "^11.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emin-G/AlicE-Hangang.git"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Emin-G/AlicE-Hangang/issues"
+  }
+}
